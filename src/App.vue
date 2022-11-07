@@ -42,7 +42,7 @@ import ItemTestComponent from "@/components/ItemTestComponent";
 
 export default {
   name: 'App',
-  components: {ItemTestComponent},
+  components: { ItemTestComponent },
   data() {
     return {
       questions: [
